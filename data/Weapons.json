@@ -1,0 +1,4 @@
+[
+null,
+{"id":1,"animationId":0,"description":"一块板砖，上面印有两个字，已经模糊看不清\n（追加攻击两次，命中率+95%）","etypeId":1,"traits":[{"code":31,"dataId":1,"value":0},{"code":22,"dataId":0,"value":0.95},{"code":34,"dataId":0,"value":2}],"iconIndex":306,"name":"对卓显宝具","note":"","params":[0,0,10,0,0,0,0,0],"price":500,"wtypeId":0}
+]
